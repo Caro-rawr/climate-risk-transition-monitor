@@ -1,0 +1,22 @@
+# climate-risk-transition-monitor
+# Requirements · Python >= 3.10
+
+# Core data
+pandas>=2.0,<3.0
+numpy>=1.24,<2.0
+openpyxl>=3.1,<4.0       # Excel report generation
+
+# Visualization / Dashboard
+plotly>=5.18,<6.0
+streamlit>=1.32,<2.0
+
+# NGFS API (optional — tool works without it using synthetic data)
+# pyam-iamc>=2.0           # Uncomment to enable live IIASA API access
+
+# Testing
+pytest>=7.4
+pytest-cov>=4.0
+
+# Development
+ipykernel>=6.0             # Jupyter notebook support
+nbformat>=5.9              # .ipynb conversion
