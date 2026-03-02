@@ -168,5 +168,8 @@ The sector crosswalk tables (GICS → NGFS) are custom mappings. Where sector bo
 | [ghg-inventory-toolkit](https://github.com/Caro-rawr/ghg-inventory-toolkit) | Corporate GHG inventories (Scopes 1–3, GHG Protocol, INECC 2023) |
 
 ---
+## Author
 
-**Carolina Cruz Núñez** · Climate Analytics & Decarbonization Strategy · [github.com/Caro-rawr](https://github.com/Caro-rawr)
+Carolina Cruz Núñez | M.Sc. Sustainability Sciences 
+[linkedin.com/in/carostrepto](https://linkedin.com/in/carostrepto)
+
